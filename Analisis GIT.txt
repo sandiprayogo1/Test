@@ -1,0 +1,66 @@
+Version control system merupakan sistem yang dapat merekam semua perubahan pada kode yang kita buat, 
+sehingga kita dapat kembali ke versi yang kita inginkan.
+
+Jika VCS adalah sistem yang membantu programmer untuk merekam seluruh perubahan pada sumber kode. 
+Sedangkan SCM yaitu praktek untuk mengelola sumber kode dalam sebuah proyek perangkat lunak. SCM berisi 
+penggunaan VCS beserta prosesnya, tools, dan rules untuk me-manage perubahan sumber kode.
+
+Sebelum kita mengenal macam-macam dari version control sistem, kita harus paham beberapa istilah pada version
+control system. Berikut ini adalah istilah dari version control system:
+
+1.Repository / repo merupakan folder yang berisi kode kita
+2.Commit merupakan rekaman atau snapshot dari perubahan-perubahan yang kita lakukan
+3.Hash merupakan kode unik pada sebuah commit
+4.Checkout merupakan kegiatan perpindahan, contohnya perpindahan ke sebuah commit, perpindahan dari branch A ke branch B
+5.Branch merupakan cabang bebas dari sebuah commit
+6.Merge merupakan kegiatan untuk menggabungkan branch
+7.Remote merupakan sumber yang memiliki repo
+8.Clone merupakan mengambil repo dari remote(sumber)
+9.Push mengirim commit ke repo
+10.Pull mengambil commit dari repo
+
+Git adalah singkatan dari Group Inclusive Tour. Git merupakan version control system yang gratis dan juga 
+open source. Git dirancang untuk menangani segala project baik itu project besar atau project sederhana. 
+Git memungkinkan para pengembang untuk bekerja secara bersama-sama pada proyek yang sama dan melacak setiap 
+perubahan yang dilakukan pada source code. Terdapat 2 sistem git, yaitu centralized dan distributed:
+
+Fitur-fitur GIT
+1.version control
+2.Git Branch
+3.Merging
+4.staging area
+5.git rebase
+6.Hook
+7.GUI tools
+
+Kelebihan GIT
+1.Dapat mengelola versi kode sumber dengan mudah dan efisien.
+2.Dapat melakukan branching dan merging dengan mudah dan aman.
+3.Dapat melacak perubahan dan siapa yang membuat perubahan pada source code.
+4.Memiliki performa yang cepat dan stabil dalam pengelolaan kode sumber yang besar.
+
+Kelemahan GIT
+1.Memiliki fitur yang kompleks dan terkadang membingungkan bagi pengguna yang 
+kurang berpengalaman.
+2.Memerlukan pemahaman yang baik tentang konsep dasar seperti repository, commit, 
+branching, dan merging.
+3.Sulit digunakan untuk pengelolaan file biner atau non-teks, seperti gambar atau 
+video.
+
+Langkah Langkah Install GIT
+1.langkah pertama next 
+2.Langkah kedua pilih folder git
+3.Langkah ketiga ceklis komponen GIT
+4.Pilih menu file GIT
+5.Pilih teks editor default GIT
+6.Pilih let git decide
+7.Pilih yang di recommend kan
+8.Pilih yang bundled SSH
+9.Pilih yang open SSL
+10.Pilih checkout windows style
+11.Pilih use minty
+12.Pilih default
+13.Pilih git credential
+14.Pilih system caching
+15.Jangan pilih apa apa lalu install
+16.Dan finish
